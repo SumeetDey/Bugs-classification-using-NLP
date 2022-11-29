@@ -32,5 +32,8 @@ For test we had 120+ bugs categorized manually into 6 categories, hence we will 
 5. IPsec_routing     5
 6. NATT              5
 
+## Summary
+
+![image](https://user-images.githubusercontent.com/8717020/204483016-d218f5ab-2b09-4f6a-8564-25383e84da67.png)
 
 
