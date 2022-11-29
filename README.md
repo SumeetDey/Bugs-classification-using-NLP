@@ -25,12 +25,12 @@ For test we had 120+ bugs categorized manually into 6 categories, hence we will 
 
 ## Sample Distribution:
 
-configuration    29
-generic          25
-rekey            14
-memory_issue      8
-IPsec_routing     5
-NATT              5
+1. configuration    29
+2. generic          25
+3. rekey            14
+4. memory_issue      8
+5. IPsec_routing     5
+6. NATT              5
 
 
 
