@@ -1,12 +1,16 @@
-# Product Categorization
+# Multi-Class Classification of bugs based on their description
 
-## Multi-Class Text Classification of bugs based on their description
+## Problem Statement
 
-General info
-
-RCCA of customer reported bugs often takes longer period of time if the number of bugs are high.
-It would be time taking to understand the cause of a feature specific issues (such as memory_leaks, config, interoperability, etc) repeatedly seen in customer environment.
+Root-Cause-Analysis of customer reported bugs often takes longer period of time if the number of reported bugs are high.
+It would be time taking to understand the cause of a feature specific issues (such as memory_leaks, config, IPsec, etc) repeatedly seen in customer environment.
 It needs a lot of efforts and time to understand the series of events that trigger the problem as reported in the bug.
+
+# Usecases
+This tool would be useful to classify the upcoming customers PRs to the existing custom category and understand pattern of testgaps. 
+Tool reduces the man hours in large scale of PRs by ~50% (approx)
+
+![image](https://user-images.githubusercontent.com/8717020/204486030-deaa2953-84da-4045-ba3e-240c755a7518.png)
 
 
 ## ML Approach
