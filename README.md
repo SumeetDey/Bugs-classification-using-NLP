@@ -31,6 +31,10 @@ For test we had 120+ bugs categorized manually into 6 categories, hence we will 
 5. IPsec_routing     5
 6. NATT              5
 
+## Workflow
+
+![image](https://user-images.githubusercontent.com/8717020/204484903-195f10fa-ae6f-481d-97f9-b79c989eee65.png)
+
 ## Summary
 
 This project was aimed to multi-class bugs classification of reported bugs using description. Based on given text as an input, we have predicted what would be the category.
